@@ -41,7 +41,8 @@ List<T> list = ctx.createList();
 
 ## Authors
 
-* **Diego Costa** - [] 
+## Original
 
+* **Diego Costa** - [Original work](https://github.com/DiegoEliasCosta/collectionSwitch) 
 
 
