@@ -125,7 +125,7 @@
 
 	</dependencies>
 	<build>
-		<sourceDirectory>src</sourceDirectory>
+		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
 
 			<!-- MAVEN COMPILER -->
